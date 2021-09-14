@@ -25,5 +25,9 @@
    "editor.defaultFormatter": "HookyQR.beautify",
    "[html]": {
       "editor.defaultFormatter": "vscode.html-language-features"
+   },
+   "liveServer.settings.port": 5501,
+   "[css]": {
+      "editor.defaultFormatter": "aeschli.vscode-css-formatter"
    }
 }
